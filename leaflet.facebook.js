@@ -1,6 +1,5 @@
 L.Control.Facebook = L.Control.extend({
     options: {
-    // topright, topleft, bottomleft, bottomright
     position: 'topleft',
     url: 'https://facebook.com',
 	size: 'small',
