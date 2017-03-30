@@ -5,7 +5,7 @@ Adding Facebook like button as Leaflet control.
 E.g.
 
 ````js
-    // Set the button title text for the polygon button
+    // Change default options
     L.control.facebook({ 
       position: 'topleft',
       url: 'https://www.facebook.com/',
